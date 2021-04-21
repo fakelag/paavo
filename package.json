@@ -16,9 +16,11 @@
 		"url": "git+https://github.com/fakelag/paavo.git"
 	},
 	"keywords": [
-		"axios",
-		"throttle",
-		"ratelimit"
+		"paavo",
+		"postinumeroalueittainen avoin tieto",
+		"postinumero",
+		"avoin data",
+		"stat"
 	],
 	"bugs": {
 		"url": "https://github.com/fakelag/paavo/issues"
