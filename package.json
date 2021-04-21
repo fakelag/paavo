@@ -1,6 +1,6 @@
 {
 	"name": "paavo",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "package for working with postinumeroalueittainen avoin tieto (Paavo) datasets",
 	"main": "lib/index.js",
 	"scripts": {
