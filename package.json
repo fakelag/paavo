@@ -1,0 +1,37 @@
+{
+	"name": "paavo",
+	"version": "1.0.0",
+	"description": "package for working with postinumeroalueittainen avoin tieto (Paavo) datasets",
+	"main": "lib/index.js",
+	"scripts": {
+		"test": "jest",
+		"build": "tsc"
+	},
+	"typings": "lib/index.d.ts",
+	"files": [
+		"lib/**"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fakelag/paavo.git"
+	},
+	"keywords": [
+		"axios",
+		"throttle",
+		"ratelimit"
+	],
+	"bugs": {
+		"url": "https://github.com/fakelag/paavo/issues"
+	},
+	"homepage": "https://github.com/fakelag/paavo#readme",
+	"author": "Fakelag",
+	"license": "MIT",
+	"dependencies": {
+		"wfs": "^1.1.0",
+		"wfs-client": "^0.4.1"
+	},
+	"devDependencies": {
+		"@types/node": "^14.14.41",
+		"typescript": "^4.2.4"
+	}
+}
